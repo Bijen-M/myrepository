@@ -11,7 +11,7 @@ f.	Enables the organization to properly manage or keep track of the Parties(Clie
 
 ## 2. Accessing HIRA BRICKS application
 a.	Recommended browser: Google Chrome (Latest Version)
-b.	Link to HIRA BRICKS: https://www.hirabricks.com.np/
+b.	Link to HIRA BRICKS: [HiraBricks](https://www.hirabricks.com.np/)
 c.	Only registered / verified users can access the system
 
 ## 3.  Sign in to HIRA BRICKS

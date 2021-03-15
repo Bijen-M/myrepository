@@ -18,4 +18,4 @@ c.	Only registered / verified users can access the system
 	
 	In your chrome browser, type the above link “ https://www.hirabricks.com.np/ “ of HIRA BRICKS. Following screen should appear: 
 	
-	![](images/hira1.png)
+	![](docs/images/hira1.png)

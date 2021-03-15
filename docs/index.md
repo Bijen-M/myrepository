@@ -15,4 +15,7 @@ b.	Link to HIRA BRICKS: https://www.hirabricks.com.np/
 c.	Only registered / verified users can access the system
 
 ## 3.  Sign in to HIRA BRICKS
+	
 	In your chrome browser, type the above link “ https://www.hirabricks.com.np/ “ of HIRA BRICKS. Following screen should appear: 
+	
+	![](images/hira1.png)

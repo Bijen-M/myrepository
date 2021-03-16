@@ -1,2 +1,8 @@
 site_name: My Docs
-theme : readthedocs
+nav: 
+    - Home : index.md
+    - Introduction : Introduction.md
+    - System Modules : modules.md
+    - System Management Module: systemmanmodule.md
+
+theme: readthedocs

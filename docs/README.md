@@ -1,3 +1,0 @@
-# Hirabricks
-
-> An awesome project.
